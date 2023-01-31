@@ -15,4 +15,5 @@
 
 ## :open_book: Main Functions
 > :hammer_and_wrench: 게시판 조회
-> 
+> ![image](https://user-images.githubusercontent.com/116073413/215735196-bf2b85d9-170e-4a09-a536-4e296f3bd0bb.png){: width="10%" height="10%"}
+
