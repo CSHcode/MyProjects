@@ -14,6 +14,28 @@
 ***
 
 ## :open_book: Main Functions
-> :hammer_and_wrench: 게시판 조회
-> ![image](https://user-images.githubusercontent.com/116073413/215735196-bf2b85d9-170e-4a09-a536-4e296f3bd0bb.png){: width="10%" height="10%"}
+> ### :mag: 게시판 조회
+> 
+> <img src="https://user-images.githubusercontent.com/116073413/215736078-fe43ec33-9a5b-4226-b39a-d168cd0428b3.jpg" width="50%" height="50%"/>
+> 
+> 데이터 베이스의 정보를 모두 출력합니다. 기본적으로 글번호를 기준으로 정렬하지만, 계층형 쿼리의 order sibling by 를 사용하여 계층 구조를 유지하며 정렬한 테이블을 출력합니다.
+
+<br/><br/>
+
+> ### :memo: 게시글 쓰기
+> 
+> <img src="https://user-images.githubusercontent.com/116073413/215739715-3c1b7c00-6906-4daa-a9c6-c5eea5f60dd2.png" width="50%" height="50%"/>
+> 
+> 글 제목, 작성자 ID, 글 내용을 사용자가 입력하고, 글 번호, 부모글 번호, 작성일 은 자동으로 설정됩니다. 
+
+<br/><br/>
+
+> ### :notebook: 게시글 조회
+> 
+> <img src="https://user-images.githubusercontent.com/116073413/215738887-73c7fd94-1eef-45a9-aaf8-7ba09e1da504.png" width="50%" height="50%"/>
+> 
+> 글 제목을 클릭하면 해당 글의 글번호를 기준으로 데이터베이스에서 데이터를 가져오고 출력합니다.
+
+
+ 
 
