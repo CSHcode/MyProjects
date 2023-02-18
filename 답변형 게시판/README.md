@@ -77,6 +77,7 @@
 > * 계층형 쿼리의 order siblings by 를 사용하여 계층 구조를 유지
 >
 > onClick 속성의 버튼 클릭시 해당 함수를 호출하고 <script> 태그 내에서 새로운 form 태그를 설계하는 방법이 익숙하지 않았음.
-> * createElement, setAttribute, appendChild 속성을 사용하여 함수 내에서도 충분히 form 태그 구조를 설계할수 
+> * createElement, setAttribute, appendChild 속성을 사용하여 함수 내에서도 충분히 form 태그 구조를 설계할수 있음.
+>
  
 
