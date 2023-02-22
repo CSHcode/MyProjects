@@ -18,4 +18,9 @@
 >
 > 모든 버튼에는 onClick 속성이 적용되어있습니다. 그리고 누른 버튼의 값을 파라미터로 넘겨 최종 식을 완성 합니다. 
 
+***
 
+## :microscope: References
+>
+> https://github.com/Chiagozielam/Simple-Calcuator
+>  
